@@ -1,6 +1,3 @@
-
-
-
 class MovieCard extends React.Component {
   render() {
     return (
@@ -14,3 +11,4 @@ class MovieCard extends React.Component {
       </div>
     );
   }
+}
